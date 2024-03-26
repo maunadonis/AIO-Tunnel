@@ -2,8 +2,8 @@
   "Servers": [
     {
       "Name": "Server 001",
-      "Flag": "flag_uk.png",
-      "Details": "United Kingdom.",
+      "Flag": "flag_sg.png",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -13,7 +13,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "firenet",
-      "UDP Auth": "Username:mautin",
+      "UDP Auth": "mautin",
       "UDP Receive Window": "196608"
     },
     {
