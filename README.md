@@ -2,18 +2,18 @@
   "Servers": [
     {
       "Name": "Server 001",
-      "Flag": "flag_jp.png",
-      "Details": "server from prince.",
+      "Flag": "flag_uk.png",
+      "Details": "United Kingdom.",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
       "Protocol": "UDP",
-      "UDP Server": "139.162.84.20",
+      "UDP Server": "185.250.38.48",
       "UDP Port": "10000-50000",
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "firenet",
-      "UDP Auth": "Username:Password",
+      "UDP Auth": "Username:mautin",
       "UDP Receive Window": "196608"
     },
     {
