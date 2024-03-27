@@ -63,6 +63,7 @@
       "UDP Obfs": "hw",
       "UDP Auth": "hwudp",
       "UDP Receive Window": "999999"
+     },
       {
       "Name": "Server 005",
       "Flag": "flag_sg.png",
