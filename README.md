@@ -158,7 +158,7 @@
       "UDP Obfs": "hw",
       "UDP Auth": "hwudp",
       "UDP Receive Window": "999999"
-    }
+    
     }
   ]
 }
