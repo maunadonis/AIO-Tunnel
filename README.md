@@ -3,7 +3,7 @@
     {
       "Name": "Server 001",
       "Flag": "flag_sg.png",
-      "Details": "Singapore",
+      "Details": "Singapore by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -19,7 +19,7 @@
     {
       "Name": "Server 002",
       "Flag": "flag_sg.png",
-      "Details": "Singapore",
+      "Details": "Singapore by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -35,7 +35,7 @@
     {
       "Name": "Server 003",
       "Flag": "flag_sg.png",
-      "Details": "Singapore",
+      "Details": "Singapore by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -51,7 +51,7 @@
     {
       "Name": "Server 004",
       "Flag": "flag_sg.png",
-      "Details": "Singapore",
+      "Details": "Singapore by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -67,7 +67,7 @@
       {
       "Name": "Server 005",
       "Flag": "flag_sg.png",
-      "Details": "Singapore",
+      "Details": "Singapore by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -83,7 +83,7 @@
     {
       "Name": "Server 006",
       "Flag": "flag_us.png",
-      "Details": "United States",
+      "Details": "United States by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -99,7 +99,7 @@
     {
       "Name": "Server 007",
       "Flag": "flag_us.png",
-      "Details": "United States",
+      "Details": "United States by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -115,7 +115,7 @@
     {
       "Name": "Server 008",
       "Flag": "flag_us.png",
-      "Details": "United States",
+      "Details": "United States by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -131,7 +131,7 @@
     {
       "Name": "Server 009",
       "Flag": "flag_us.png",
-      "Details": "United States",
+      "Details": "United States by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -147,7 +147,7 @@
     {
       "Name": "Server 010",
       "Flag": "flag_us.png",
-      "Details": "United States",
+      "Details": "United States by Yaseen King",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
