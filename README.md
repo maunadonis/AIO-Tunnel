@@ -24,12 +24,12 @@
       "RemoteProxy": "",
       "RemoteProxyPort": "",
       "Protocol": "UDP",
-      "UDP Server": "194.195.90.226",
+      "UDP Server": "164.90.191.233",
       "UDP Port": "20000-50000",
       "UDP Upload": "100",
       "UDP Download": "100",
-      "UDP Obfs": "hw",
-      "UDP Auth": "hwudp",
+      "UDP Obfs": "sylnetdev",
+      "UDP Auth": "1234es:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -40,12 +40,12 @@
       "RemoteProxy": "",
       "RemoteProxyPort": "",
       "Protocol": "UDP",
-      "UDP Server": "45.79.126.163",
+      "UDP Server": "164.90.191.245",
       "UDP Port": "20000-50000",
       "UDP Upload": "100",
       "UDP Download": "100",
-      "UDP Obfs": "hw",
-      "UDP Auth": "hwudp",
+      "UDP Obfs": "sylnetdev",
+      "UDP Auth": "1234es:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -56,12 +56,12 @@
       "RemoteProxy": "",
       "RemoteProxyPort": "",
       "Protocol": "UDP",
-      "UDP Server": "172.105.10.25",
+      "UDP Server": "206.81.25.215",
       "UDP Port": "20000-50000",
       "UDP Upload": "100",
       "UDP Download": "100",
-      "UDP Obfs": "hw",
-      "UDP Auth": "hwudp",
+      "UDP Obfs": "sylnetdev",
+      "UDP Auth": "1234es:95769887",
       "UDP Receive Window": "999999"
      },
       {
@@ -72,12 +72,12 @@
       "RemoteProxy": "",
       "RemoteProxyPort": "",
       "Protocol": "UDP",
-      "UDP Server": "194.195.90.226",
+      "UDP Server": "164.92.239.189",
       "UDP Port": "20000-50000",
       "UDP Upload": "100",
       "UDP Download": "100",
-      "UDP Obfs": "hw",
-      "UDP Auth": "hwudp",
+      "UDP Obfs": "sylnetdev",
+      "UDP Auth": "1234es:95769887",
       "UDP Receive Window": "999999"
     },
     {
