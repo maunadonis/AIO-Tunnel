@@ -3,7 +3,7 @@
     {
       "Name": "Server 001",
       "Flag": "flag_sg.png",
-      "Details": "Singapore by Yaseen King",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -19,7 +19,7 @@
     {
       "Name": "Server 002",
       "Flag": "flag_sg.png",
-      "Details": "Singapore by Yaseen King",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -29,13 +29,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 003",
       "Flag": "flag_sg.png",
-      "Details": "Singapore by Yaseen King",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -45,13 +45,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 004",
       "Flag": "flag_sg.png",
-      "Details": "Singapore by Yaseen King",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -61,13 +61,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
      },
       {
       "Name": "Server 005",
       "Flag": "flag_sg.png",
-      "Details": "Singapore by Yaseen King",
+      "Details": "Singapore",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -77,13 +77,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 006",
       "Flag": "flag_us.png",
-      "Details": "United States by Yaseen King",
+      "Details": "United States",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -93,13 +93,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 007",
       "Flag": "flag_us.png",
-      "Details": "United States by Yaseen King",
+      "Details": "United States",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -109,13 +109,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 008",
       "Flag": "flag_us.png",
-      "Details": "United States by Yaseen King",
+      "Details": "United States",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -125,13 +125,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 009",
       "Flag": "flag_us.png",
-      "Details": "United States by Yaseen King",
+      "Details": "United States",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -141,13 +141,13 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     },
     {
       "Name": "Server 010",
       "Flag": "flag_us.png",
-      "Details": "United States by Yaseen King",
+      "Details": "United States",
       "Data": "",
       "RemoteProxy": "",
       "RemoteProxyPort": "",
@@ -157,7 +157,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "1234es:95769887",
+      "UDP Auth": "90080es:95769887",
       "UDP Receive Window": "999999"
     
     }
