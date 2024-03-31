@@ -29,7 +29,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -45,7 +45,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -61,7 +61,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
      },
       {
@@ -77,7 +77,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -93,7 +93,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -109,7 +109,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -125,7 +125,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -141,7 +141,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     },
     {
@@ -157,7 +157,7 @@
       "UDP Upload": "100",
       "UDP Download": "100",
       "UDP Obfs": "sylnetdev",
-      "UDP Auth": "90080es:95769887",
+      "UDP Auth": "ccvfdsx55:95769887",
       "UDP Receive Window": "999999"
     
     }
